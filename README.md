@@ -14,15 +14,13 @@
   <a href="https://www.linkedin.com/in/rida-bilgrami-05537a6a/"><img src="https://img.shields.io/badge/-Rida Bilgrami-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rida-bilgrami-05537a6a/" alt="Linkedin: thaianebraga"></a>
  
 <img align="right" src="https://media.giphy.com/media/RJsue9gA3VdyeSxz7J/giphy.gif" width="400">
+<hr />
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=RidaRidss&margin-h=30&row=2&column=3&margin-w=50&theme=alduin)](https://github.com/RidaRidss/) 
-   
-  
-  <hr>
-   🔗 <a href="mailto:rida_rocks12@yahoo.com"><strong>Contact</strong></a>
- <br/><br/>
- 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RidaRidss&show_icons=true&theme=graywhite)
+
+   <h3> ✉️ <a href="mailto:rida_rocks12@yahoo.com">Contact</a></h3>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RidaRidss&show_icons=true&theme=graywhite)
   
   <article>
 
