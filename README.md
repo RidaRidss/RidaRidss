@@ -11,7 +11,7 @@
 
   
  <article>
- <h1>Senior Mobile Engineer </h1><img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+ <h1>Senior Mobile Engineer </h1><img align="right" src="https://media.giphy.com/media/RJsue9gA3VdyeSxz7J/giphy.gif" width="400">
   <p><img height="20" src="https://reactstrap.github.io/assets/logo.png"> <strong>REACT NATIVE</strong> based <strong>ANDROID | IOS</strong> mobile apps development <p>
   </article>
    
