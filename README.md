@@ -6,12 +6,19 @@
     </a><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width:100%;"></p>
   </article>
   
-  [![GitHub followers](https://img.shields.io/github/followers/RidaRidss.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/RidaRidss?tab=followers)
+<!--  [![GitHub followers](https://img.shields.io/github/followers/RidaRidss.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/RidaRidss?tab=followers). -->
 
-<article>
- <h3>Senior Mobile Engineer </h3>
+
+  
+ <article>
+ <h1>Senior Mobile Engineer </h1>
   <p><img height="20" src="https://reactstrap.github.io/assets/logo.png"> <strong>REACT NATIVE</strong> based <strong>ANDROID | IOS</strong> mobile apps development <p>
   </article>
+   
+   
+  [![trophy](https://github-profile-trophy.vercel.app/?username=RidaRidss&margin-h=30&row=2&column=3&margin-w=50&theme=alduin)](https://github.com/RidaRidss/github-profile-trophy) 
+   
+
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RidaRidss&show_icons=true&theme=graywhite)
   
