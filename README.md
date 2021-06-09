@@ -9,8 +9,14 @@
   [![GitHub followers](https://img.shields.io/github/followers/RidaRidss.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/RidaRidss?tab=followers)
 
 <article>
- <h1>Senior Mobile Engineer </h1>
-  <p><img height="20" src="https://reactstrap.github.io/assets/logo.png"> <b>REACT NATIVE</b> based <strong>ANDROID | IOS</strong> mobile apps development </p><br/><br/>
+ <h3>Senior Mobile Engineer </h3>
+  <p><img height="20" src="https://reactstrap.github.io/assets/logo.png"> <strong>REACT NATIVE</strong> based <strong>ANDROID | IOS</strong> mobile apps development <p>
+  </article>
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RidaRidss&show_icons=true&theme=graywhite)
+  
+  <article>
+  <hr>
 <strong>Contact:</strong></em> <a href="mailto:rida_rocks12@yahoo.com"><strong>Mail Me</strong></a> or you can approach me on professional network <a href="https://www.linkedin.com/in/rida-bilgrami-05537a6a/" rel="nofollow"><strong>Linked In</strong></a></p>
-<hr>
+
 </article>
