@@ -13,7 +13,7 @@
  <a href="https://github.com/RidaRidss?tab=repositories">
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact" width="350"></a>   
   <br/><br/>
-<a href="https://github.com/RidaRidss?tab=repositories"><img  src="https://github-readme-stats.vercel.app/api?username=RidaRidss&count_private=true&show_icons=true&show_icons=true&hide=contribs,issues&theme=graywhite" width="450"></a>
+<a href="https://github.com/RidaRidss?tab=repositories"><img  src="https://github-readme-stats.vercel.app/api?username=RidaRidss&count_private=true&show_icons=true&show_icons=true&hide=contribs,issues&include_all_commits=true&theme=graywhite" width="450"></a>
  
 <a href="https://github.com/RidaRidss?tab=repositories"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaRidss&layout=compact" width="350"></a>  
 <img  src="https://github-profile-trophy.vercel.app/?username=RidaRidss&margin-w=40&margin-h=20&column=3&row=2&theme=alduin" width="400">
