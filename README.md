@@ -19,7 +19,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=RidaRidss&margin-h=30&row=2&column=3&margin-w=50&theme=alduin)](https://github.com/RidaRidss/) 
 <h3> ✉️ <a href="mailto:rida_rocks12@yahoo.com">Contact</a></h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RidaRidss&count_private=true&show_icons=true&show_icons=true&theme=graywhite)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RidaRidss&count_private=true&show_icons=true&show_icons=true&hide=contribs,issues&theme=graywhite)
   
   <article>
 
