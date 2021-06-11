@@ -11,7 +11,7 @@
 <a href="https://github.com/RidaRidss"><img src="https://camo.githubusercontent.com/df7a1bc0a2c64e6aba4416591020ae05f08d313c2cd608fda62e2f16ba88730f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d52696461526964737326636f6c6f723d646331343363" alt="https://github.com/RidaRidss" data-canonical-src="https://github.com/RidaRidss" style="max-width:100%;"></a>
   <a href="https://www.linkedin.com/in/rida-bilgrami-05537a6a/"><img src="https://img.shields.io/badge/-Rida Bilgrami-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rida-bilgrami-05537a6a/" alt="Linkedin: thaianebraga"></a>
  <a href="https://github.com/RidaRidss?tab=repositories">
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" width="350"></a>   
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact" width="350"></a>   
   <br/><br/>
 <a href="https://github.com/RidaRidss?tab=repositories"><img  src="https://github-readme-stats.vercel.app/api?username=RidaRidss&count_private=true&show_icons=true&show_icons=true&hide=contribs,issues&theme=graywhite" width="450"></a>
  
