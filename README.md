@@ -30,7 +30,6 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"><img align="left" alt="Visual Studio Code" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;"></a></p>
  <p><a target="_blank" rel="noopener noreferrer" href="https://miro.medium.com/max/1347/1*SDw6CzFHDnCzdW-wckN9xg.png"><img align="left" alt="Android Studio" width="20px" src="https://miro.medium.com/max/1347/1*SDw6CzFHDnCzdW-wckN9xg.png" style="max-width:100%;"></a></p>
  <p><a target="_blank" rel="noopener noreferrer" href="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/ec/70/a6/ec70a6ff-fbbb-f924-0b05-cfa0028e3269/Xcode-85-220-0-4-2x.png/1200x630bb.png"><img align="left" alt="Xcode" width="20px" src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/ec/70/a6/ec70a6ff-fbbb-f924-0b05-cfa0028e3269/Xcode-85-220-0-4-2x.png/1200x630bb.png" style="max-width:100%;"></a></p>
-  <br/><br/>    <br/><br/>    <br/><br/>    <br/><br/>    <br/><br/>  
  <a href="https://github.com/RidaRidss?tab=repositories">
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact" width="350"></a>
 
