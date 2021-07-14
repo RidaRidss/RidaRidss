@@ -20,7 +20,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact" width="350"></a>
 
 
-<a href="https://github.com/RidaRidss?tab=repositories"><img  src="https://github-readme-stats.vercel.app/api?username=RidaRidss&count_private=true&show_icons=true&show_icons=true&hide=contribs,issues&include_all_commits=true&theme=graywhite" width="450"></a>
+<a href="https://github.com/RidaRidss?tab=repositories"><img  src="https://github-readme-stats.vercel.app/api?username=RidaRidss&count_private=true&show_icons=true&show_icons=true&hide=contribs,issues,prs&include_all_commits=true&theme=graywhite" width="450"></a>
 
 <!-- <a href="https://www.linkedin.com/in/rida-bilgrami-05537a6a/" rel="nofollow"><strong>Linked In</strong></a> -->
 
