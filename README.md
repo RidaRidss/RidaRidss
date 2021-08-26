@@ -18,11 +18,9 @@
  <img  alt="Android Studio" width="20px" src="https://miro.medium.com/max/1347/1*SDw6CzFHDnCzdW-wckN9xg.png" style="max-width:100%;">
 <img alt="Xcode" width="20px" src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/ec/70/a6/ec70a6ff-fbbb-f924-0b05-cfa0028e3269/Xcode-85-220-0-4-2x.png/1200x630bb.png" style="max-width:100%;">
  
- <a href="https://github.com/RidaRidss?tab=repositories">
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact" width="350"></a>
 
 
-<a href="https://github.com/RidaRidss?tab=repositories"><img  src="https://github-readme-stats.vercel.app/api?username=RidaRidss&count_private=true&show_icons=true&show_icons=true&hide=contribs,issues,prs&include_all_commits=true&theme=graywhite" width="450"></a>
+<a href="https://github.com/RidaRidss?tab=repositories"><img  src="https://github-readme-stats.vercel.app/api?username=RidaRidss&count_private=true&show_icons=true&show_icons=true&include_all_commits=true&theme=graywhite" width="450"></a>
 
 <!-- <a href="https://www.linkedin.com/in/rida-bilgrami-05537a6a/" rel="nofollow"><strong>Linked In</strong></a> -->
 
