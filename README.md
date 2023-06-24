@@ -27,6 +27,8 @@ https://play.google.com/store/apps/details?id=com.dd.medworks/
 
 https://apps.apple.com/pk/app/event-social/id1464895700/
 
+https://apps.apple.com/us/app/crisispal/id1255845339
+
 https://play.google.com/store/apps/details?id=com.dd.inventoryospos/
 
 https://play.google.com/store/apps/details?id=com.mentemia.companionapp/
