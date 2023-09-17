@@ -96,8 +96,6 @@ https://play.google.com/store/apps/details?id=com.eclecticcreations
  
 
 
-<a href="https://github.com/RidaRidss?tab=repositories"><img  src="https://github-readme-stats.vercel.app/api?username=RidaRidss&count_private=true&show_icons=true&show_icons=true&include_all_commits=true&theme=graywhite" width="450"></a>
-
 <!-- <a href="https://www.linkedin.com/in/rida-bilgrami-05537a6a/" rel="nofollow"><strong>Linked In</strong></a> -->
 
 
