@@ -29,7 +29,7 @@ https://play.google.com/store/apps/details?id=com.carhubapp.merchant
 
 https://play.google.com/store/apps/details?id=com.carhubapp.ca
 
-https://play.google.com/store/apps/details?id=com.dd.medworks
+https://play.google.com/store/apps/details?id=com.dd.medgen
 
 https://apps.apple.com/pk/app/event-social/id1464895700
 
