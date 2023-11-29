@@ -11,7 +11,7 @@ Project's Portfolio:
 
 Some of the Live apps Demo;
 
-[https://apps.apple.com/us/app/eventbrite/id487922291/
+https://apps.apple.com/us/app/eventbrite/id487922291/
 
 https://play.google.com/store/apps/details?id=com.eventbrite.attendee/
 
