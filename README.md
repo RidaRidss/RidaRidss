@@ -38,6 +38,8 @@ https://play.google.com/store/apps/details?id=com.dd.Intermezzo/
 
 https://play.google.com/store/apps/details?id=com.nhs.online.nhsonline/
 
+https://appadvice.com/app/everyrunn/1348394999
+
 https://apps.apple.com/us/app/everyrunn/id1348394999/
 
 https://play.google.com/store/apps/details?id=com.dd.Amore/
