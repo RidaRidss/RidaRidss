@@ -9,9 +9,9 @@ Project's Portfolio:
 
 Some of the Live apps Demo;
 
-https://play.google.com/store/apps/details?id=com.eventbrite.organizer/
+https://play.google.com/store/apps/details?id=com.eventbrite.organizer
 
-https://play.google.com/store/apps/details?id=com.eventbrite.attendee/
+https://play.google.com/store/apps/details?id=com.eventbrite.attendee
 
 
 https://apps.apple.com/us/app/eventbrite/id487922291/
