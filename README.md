@@ -26,6 +26,10 @@ https://apps.apple.com/us/app/id1478415981/
 
 https://apps.apple.com/pk/app/event-social/id1464895700/
 
+https://play.google.com/store/apps/details?id=com.tws.teamingways
+
+https://apps.apple.com/us/app/teamingway/id1482418481/
+
 https://apps.apple.com/us/app/healthcaretalentlink/id6449923773/
 
 https://apps.apple.com/us/app/crisispal/id1255845339/
